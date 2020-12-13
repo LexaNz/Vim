@@ -27,30 +27,30 @@
 	url = https://github.com/Yggdroot/indentLine.git
 	branch = master
 [submodule "bundle/bundle/vim-pathogen"]
-	path = bundle/bundle/vim-pathogen
+	path = bundle/vim-pathogen
 	url = https://github.com/tpope/vim-pathogen.git
 	branch = master
 [submodule "bundle/bundle/ansible-vim"]
-	path = bundle/bundle/ansible-vim
+	path = bundle/ansible-vim
 	url = https://github.com/pearofducks/ansible-vim.git
 	branch = master
 [submodule "bundle/bundle/nginx.vim"]
-	path = bundle/bundle/nginx.vim
+	path = bundle/nginx.vim
 	url = https://github.com/chr4/nginx.vim.git
 	branch = master
 [submodule "bundle/bundle/vim-bind"]
-	path = bundle/bundle/vim-bind
+	path = bundle/vim-bind
 	url = https://github.com/Absolight/vim-bind.git
 	branch = master
 [submodule "bundle/bundle/vim-fish"]
-	path = bundle/bundle/vim-fish
+	path = bundle/vim-fish
 	url = https://github.com/dag/vim-fish.git
 	branch = master
 [submodule "bundle/bundle/vim-json"]
-	path = bundle/bundle/vim-json
+	path = bundle/vim-json
 	url = https://github.com/elzr/vim-json.git
 	branch = master
 [submodule "bundle/bundle/indentLine"]
-	path = bundle/bundle/indentLine
+	path = bundle/indentLine
 	url = https://github.com/Yggdroot/indentLine.git
 	branch = master
