@@ -47,7 +47,7 @@ hi DiffText                      guibg=#4C4745 gui=italic,bold
 
 hi Directory       guifg=#A6E22E               gui=bold
 hi Error           guifg=#E6DB74 guibg=#1E0010
-hi ErrorMsg        guifg=#F92672 guibg=#232526 gui=bold
+hi ErrorMsg        guifg=#F8F8F2 guibg=#F92672 gui=bold
 hi Exception       guifg=#A6E22E               gui=bold
 hi Float           guifg=#ca94ff
 hi FoldColumn      guifg=#465457 guibg=#000000
