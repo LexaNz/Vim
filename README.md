@@ -4,7 +4,7 @@ Just my vim configuration.
 
 Using pathogen : https://github.com/tpope/vim-pathogen
 
-Clne the repo with all submoules
+Clone the repo with all submoules
 
 `git clone --recurse-submodules https://github.com/LexaNz/vim.git .vim`
 
